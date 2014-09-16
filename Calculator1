@@ -28,3 +28,5 @@ public class Calculator1
 		System.out.printf("The quotient is: %d\n", (quotient));
 	}
 }
+
+//Good job...did you have a chance to try to implement the Calculator?
